@@ -10,4 +10,4 @@ const student = {
 };
 
 const {name: studentName, height} = student;
-console.log(studentName, height)
+console.log(studentName, height);
